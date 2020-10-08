@@ -1,0 +1,38 @@
+body > header > nav > div > ul{
+    color: black;
+}
+.brand-logo{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#firstpart{
+    background-image: url(/Images/Photography/tania-mousinho-s_52nBrGXm4-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+    min-height: 400px;
+
+}
+#chat{
+    margin-bottom: 100px;
+}
+@media screen and (min-width: 760px){
+    .brand-logo{
+        margin-left: 50px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    nav ul li a {
+        color: #616161;
+    }
+    nav ul{
+        margin-right: 50px;
+    }
+    #firstpart{
+        background-image: url(/Images/Photography/antonio-uquiche-jomgu6FsAiU-unsplash.jpg);
+        background-position: center;
+        background-size: cover;
+        min-height: 400px;
+
+    }
+    #chat{
+        margin-bottom: 100px;
+    }
+}
