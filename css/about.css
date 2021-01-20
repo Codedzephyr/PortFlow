@@ -1,0 +1,70 @@
+body > header > nav > div > ul{
+    color: black;
+}
+.break{
+   display: none;
+}
+#sign{
+    text-align: center;
+}
+.brand-logo{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 0px;
+}
+#aboutus{
+    background-image: url(/Images/About/windows-SwHvzwEzCfA-unsplash-min.jpg);
+    background-position: center;
+    background-size: cover;
+    min-height: 300px;
+}
+#approach{
+    background-image: url(/Images/About/linkedin-sales-navigator-0QvTyp0gH3A-unsplash-min.jpg);
+    background-position: center;
+    background-size: cover;
+    min-height: 300px;
+}
+#process{
+    background-image: url(/Images/About/annie-spratt-vGgn0xLdy8s-unsplash-min.jpg);
+    background-position: center;
+    background-size: cover;
+    min-height: 300px;
+}
+
+@media screen and (min-width: 9920px){
+    .brand-logo{
+        margin-left: 30px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    nav ul li a {
+        color: #616161;
+    }
+    nav ul{
+        margin-right: 50px;
+    }
+    #aboutus{
+        background-image: url(/Images/About/windows-SwHvzwEzCfA-unsplash-min.jpg);
+        background-position: center;
+        background-size: cover;
+        min-height: 600px;
+    }
+    #approach{
+        background-image: url(/Images/About/linkedin-sales-navigator-0QvTyp0gH3A-unsplash-min.jpg);
+        background-position: center;
+        background-size: cover;
+        min-height: 600px;
+    }
+    #process{
+        background-image: url(/Images/About/annie-spratt-vGgn0xLdy8s-unsplash-min.jpg);
+        background-position: center;
+        background-size: cover;
+        min-height: 600px;
+    }
+    .conta{
+        min-height: 100px;
+    }
+    #sign{
+        margin-left: 80px;
+        text-align: left;
+    }
+   
+}

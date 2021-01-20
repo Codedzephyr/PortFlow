@@ -1,0 +1,22 @@
+body > header > nav > div > ul{
+    color: rgb(197, 172, 172);
+}
+.brand-logo{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 0px;
+  
+}
+
+@media screen and (min-width: 992px){
+   .brand-logo{
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        margin-left: 30px;
+    }
+    
+    nav ul li a {
+        color: #616161;
+    }
+    nav ul{
+        margin-right: 50px;
+    }
+}

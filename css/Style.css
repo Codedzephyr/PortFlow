@@ -1,0 +1,48 @@
+body > header > nav > div > ul{
+    color: black;
+}
+.tabs .indicator{
+    background-color: black;
+}
+.tabs .tab a:focus, .tabs .tab a:focus.active{
+    background: transparent;
+}
+#tabss li a  {
+    display: inline;
+}
+#photography div {
+    padding-top: 20px;
+}
+#works div{
+    padding-top: 20px;
+}
+#webdesign div{
+    padding-top: 20px;
+}
+#art div{
+    padding-top: 20px;
+}
+#photography1{
+    padding: 0px;
+}
+.brand-logo{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 0px;
+}
+
+
+
+@media screen and (min-width: 992px){
+    .brand-logo{
+        margin-left: 30px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    nav ul li a {
+        color: #616161;
+    }
+    nav ul{
+        margin-right: 50px;
+    }
+    
+
+}
