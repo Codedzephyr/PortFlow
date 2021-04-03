@@ -12,7 +12,7 @@ This was designed for an art company in mind where various forms of art such as 
   ### Challenges
   Figuring out a design
   
-  ###Link
+  ### Link
   <a href = "https://jovial-roentgen-29b242.netlify.app/">Project Link </a>
  
  ### Author
