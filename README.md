@@ -1,5 +1,5 @@
 ### PortFlow
-This was designed for an art company in mind where various forms of art such as sculpting,photography were sold. It has a section for showcases, blog, Contact Information and Pricing.
+This was designed for an art company in mind where various forms of art such as sculpting,photography were sold. It has a section for showcases, blog, Contact Information and Pricing. It is also fully responsive
 
 
 ### Built With
